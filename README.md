@@ -1,3 +1,9 @@
+<img src="https://github-readme-stats.vercel.app/api?username=RedBoneZhang&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
+
+### I'm RedBoneZhang. 
+
+<img src="https://github-profile-trophy.vercel.app/?username=RedBoneZhang&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
 <!--
 **RedBoneZhang/RedBoneZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=RedBoneZhang&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /> 
-### I'm RedBoneZhang. 
-<img src="https://github-profile-trophy.vercel.app/?username=RedBoneZhang&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
